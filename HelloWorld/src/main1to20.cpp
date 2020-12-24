@@ -69,7 +69,7 @@ public:
 };
 
 
-int main()
+int main1to20()
 {
 	
 	//Log("Hello World");
